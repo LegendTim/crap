@@ -8,4 +8,6 @@ public class Test {
 	private String testString4;
 	private String testBlah1;
 	private String testBlah2;
+	private String testBlah3;
+	private String testBlah4;
 }
