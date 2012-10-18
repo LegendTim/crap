@@ -12,4 +12,5 @@ public class Test {
 	private String testBlah4;
 	private String testBlah5;
 	private String testBlah6;
+	private String testBlah7;
 }
