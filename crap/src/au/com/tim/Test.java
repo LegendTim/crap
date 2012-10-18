@@ -10,4 +10,6 @@ public class Test {
 	private String testBlah2;
 	private String testBlah3;
 	private String testBlah4;
+	private String testBlah5;
+	private String testBlah6;
 }
